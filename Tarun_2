@@ -1,0 +1,8 @@
+//code to swap 2 numbers
+
+int x = 5
+int y = 10
+
+x = x ^ y
+y = y ^ y
+x = x ^ y
