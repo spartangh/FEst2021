@@ -1,0 +1,4 @@
+//print if odd number
+
+int n;  cin>>n;
+(n & 1) ? cout<<"YES" : cout<<"NO" ;
