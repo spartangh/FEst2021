@@ -1,0 +1,6 @@
+//add 2 numbers without plus operator
+
+int x,y
+cin>>x>>y
+y = y * -1
+cout<< ( x - y ) 
